@@ -10,13 +10,21 @@ Image Conversion through API or on the fly with web request. Almost all
 type of imagemanipulation like crop , resize,blur,sharp and 
 many more can be done with just one request.
 ```
-## Read Full Docs Here https://oyyi.xyz/docs/image
+## Read Full Docs Here https://oyyi.xyz/docs/
+
+## Image/Pdf Optimizer
+```
+Optimize Image with lossless compression.
+Optimize PDF with lossless compression.
+```
+## Read Full Docs Here https://oyyi.xyz/docs/
+
 
 ## Thumbnail Generator
 ```
 Generate Thumbnail for Image , PDF  and Video for free with our api. 
 ```
-## Read Full Docs Here https://oyyi.xyz/docs/thumbnail
+## Read Full Docs Here https://oyyi.xyz/docs/
 
 
 ## Fake Data Generator
@@ -24,4 +32,4 @@ Generate Thumbnail for Image , PDF  and Video for free with our api.
 Generate fake data easily with single web request and populate your test database 
 or app testing. Supported almost all types of data.
 ```
-## Read Full Docs Here https://oyyi.xyz/docs/fake
+## Read Full Docs Here https://oyyi.xyz/docs/
